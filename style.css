@@ -159,3 +159,23 @@ body{
     border: none;
     border-radius: 8px;
 }
+footer{
+    margin-top: 8%;
+    background-color: black;
+    height: 300px;
+   
+}
+.content-footer{
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
+.content-footer span{
+    color: rgb(153, 39, 67);
+}
+.content-footer p{
+    font-size: 15px;    
+}
+.websit{
+    color: rgba(194, 173, 173, 0.575);
+}
